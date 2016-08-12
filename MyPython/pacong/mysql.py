@@ -2,7 +2,7 @@
 '''
 Created on 2016-8-12
 
-@author: 研发
+@author: 研发  啊啊啊啊啊啊啊
 '''
 
 import MySQLdb
